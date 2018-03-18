@@ -1,0 +1,13 @@
+{
+    "name": "act/filemanager",
+    "description": "FileManager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ACT",
+            "email": "host9999.net@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
